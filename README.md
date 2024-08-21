@@ -1,4 +1,4 @@
-Hi 👋 My name is Eyman Ameer
+Hi !! My name is Eyman Ameer
 ============================
 
 Data Analyst and App Developer
